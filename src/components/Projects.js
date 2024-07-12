@@ -8,19 +8,19 @@ const projects = [
     id: 1,
     title: 'Premier One',
     description: 'For this local client, they wanted to create a sporty and eye-catching website that stook out from the competition.',
-    imgSrc: '../../images/premier-one-snapshot.png',
+    imgSrc: 'images/premier-one-snapshot.png',
   },
   {
     id: 2,
     title: 'Texas Auto',
     description: 'Having just opened, Texas Auto wanted to create a site that was friendly but still edgy.',
-    imgSrc: '../../images/texas-auto-snapshot.png',
+    imgSrc: 'images/texas-auto-snapshot.png',
   },
   {
     id: 3,
     title: 'Irish Mikes',
     description: 'Going for more of a clean and rustic feel, Irish Mikes was the first site that I used wood grain in the design',
-    imgSrc: '../../images/irish-mikes-snapshot.png',
+    imgSrc: 'images/irish-mikes-snapshot.png',
   },
 ];
 

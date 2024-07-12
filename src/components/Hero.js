@@ -19,7 +19,7 @@ function Hero() {
         </div>
       </div>
       <div className="hero-image">
-        <img src="../../images/PXL_20230614_220218756.jpg" alt="Auto Repair" />
+        <img src="images\PXL_20230614_220218756.jpg" alt="Auto Repair" />
       </div>
     </section>
   );
